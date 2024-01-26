@@ -11,7 +11,7 @@ There are two Figma pages in the link below ("Bootcamp" and "Industry" -- access
 
 ## Introduction
 
-Taylor Swift, an influential artist in popular culture and the music industry, has one of the most largest and dedicated fan bases. However, with the recent incident with Ticketmaster in 2023 selling her Eras Tour tickets, many fans were frustrated about Ticketmaster’s inefficient ticketing system. Taylor Swift wants to change that.
+Taylor Swift, an influential artist in popular culture and the music industry, has one of the largest and most dedicated fan bases. However, after recent incidents selling her Eras Tour tickets with Ticketmaster in 2023, many fans were frustrated about Ticketmaster’s inefficient ticketing system. Taylor Swift wants to change that.
 
 Her team now needs a reliable website where she can sell her concert tickets efficiently. Taylor Swift needs her own “Ticketmaster.” We want to make our ticketing website trendy and fitting with Taylor Swift’s aesthetic. And the process starts by launching a new central hub for all of Taylor Swift’s concert tickets.
 
@@ -35,7 +35,7 @@ Note: If you are completing the Bootcamp technical project, there is no need to 
 
 ### Task 2
 
-Complete the Landing page UI in the home page of your project. Make sure to follow the [Figma](https://www.figma.com/file/A5LGDC2IdQpcEtaXcALZd7/%5BSP-24%5D-Frontend-Technical-Project?type=design&node-id=0%3A1&mode=design&t=tswPi4JprGlyifpU-1) provided.
+Complete the Landing page UI in the home page of your project. Make sure to follow the [Figma](https://www.figma.com/file/A5LGDC2IdQpcEtaXcALZd7/%5BSP-24%5D-Frontend-Technical-Project?type=design&node-id=0%3A1&mode=design&t=tswPi4JprGlyifpU-1) provided. The "Purchase" button should link to the Merch page.
 
 ### Task 3
 

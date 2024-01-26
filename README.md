@@ -5,7 +5,7 @@ This project is designed for **you** to gauge whether you want to apply to the *
 If you have any questions, please reach out to us at our email: webatberkeley@gmail.com
 
 ## Clarifications
-There are two Figma pages in the link below ("Bootcamp" and "Industry" -- access them in the top left). Please make sure you click on the project you are completing to see all of what you will complete. 
+There are two Figma pages in the link below ("Bootcamp" and "Industry" -- access them by clicking the Figma icon in the top left). Please make sure you click on the project you are completing to see all of what you will complete. 
 
 1. **IMPORTANT**: the Gradescope entry code is `4GEP2N`, please use that!
 
@@ -29,9 +29,7 @@ Use the documentation below to complete your project.
 
 ### Task 1
 
-Complete the navbar component. Clicking the icon or text in the top left should take you back to the home page, clicking "Merch" should take you to the Merch page, and clicking "Events" should take you to the Events page.
-
-Note: If you are completing the Bootcamp technical project, there is no need to build the Events page.  Feel free to link "Events" back to the homepage.
+Complete the navbar component. Clicking the icon or text in the top left should take you back to the home page, clicking "Merch" should take you to the Merch page, and (**industry only**) clicking "Events" should take you to the Events page.
 
 ### Task 2
 
@@ -39,7 +37,7 @@ Complete the Landing page UI in the home page of your project. Make sure to foll
 
 ### Task 3
 
-Complete the Merch Page.  For each merch item, hovering over the item should reveal a card with a button to buy the merch.  The buttons do not need to have functionality, but you may add styling for hovering over them.
+Complete the Merch Page.  For each merch item, hovering over the item should reveal a card with a button to buy the merch.  An example of the card is shown in the top right card, but all cards should have this functionality.  The button to "Buy" does not need to have functionality, but you may add styling for hovering over the button.
 
 ## Industry Project
 
@@ -51,7 +49,7 @@ Complete all of the bootcamp tasks before moving forward.
 
 Complete the Events page. This page displays all of Taylor's upcoming events. You should have **at least** the events on the [Figma](https://www.figma.com/file/A5LGDC2IdQpcEtaXcALZd7/%5BSP-24%5D-Frontend-Technical-Project?type=design&node-id=0%3A1&mode=design&t=tswPi4JprGlyifpU-1) in your implementation, but you may add more to make the page more functional. 
 
-In addition, please implement the search and sorting functionalities on this page. As a user types into the search box, the events list should update to only show events with names matching the search terms.  The "Times" dropdown should have a list of times including **at least** the times already on the Figma, but you may add more times if you'd like. The "Date" dropdown should contain the days of the week. When an option in a dropdown is clicked, only events that match the selected option should be shown. For example, if "Saturday" is selected, only events that are on Saturday should be displayed. If "Monday" and "4:30 pm" are selected, only events that are on Monday **and** at 4:30 pm should be displayed.
+In addition, please implement the search and sorting functionalities on this page. As a user types into the search box, the events list should update to only show events with names matching the search terms.  The "Time" dropdown should have a list of times including **at least** the times already on the Figma, but you may add more times if you'd like. The "Date" dropdown should contain the days of the week. When an option in a dropdown is clicked, only events that match the selected option should be shown. For example, if "Saturday" is selected, only events that are on Saturday should be displayed. If "Monday" and "4:30 pm" are selected, only events that are on Monday **and** at 4:30 pm should be displayed.
 
 ## Submission
 

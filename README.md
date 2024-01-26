@@ -36,3 +36,30 @@ Note: If you are completing the Bootcamp technical project, there is no need to 
 ### Task 2
 
 Complete the Landing page UI in the home page of your project. Make sure to follow the [Figma](https://www.figma.com/file/A5LGDC2IdQpcEtaXcALZd7/%5BSP-24%5D-Frontend-Technical-Project?type=design&node-id=0%3A1&mode=design&t=tswPi4JprGlyifpU-1) provided.
+
+### Task 3
+
+Complete the Merch Page.  For each merch item, hovering over the item should reveal a card with a button to buy the merch.  The buttons do not need to have functionality, but you may add styling for hovering over them.
+
+## Industry Project
+
+### Task 1-3
+
+Complete all of the bootcamp tasks before moving forward.
+
+### Task 4
+
+Complete the Events page. This page displays all of Taylor's upcoming events. You should have **at least** the events on the [Figma](https://www.figma.com/file/A5LGDC2IdQpcEtaXcALZd7/%5BSP-24%5D-Frontend-Technical-Project?type=design&node-id=0%3A1&mode=design&t=tswPi4JprGlyifpU-1) in your implementation, but you may add more to make the page more functional. 
+
+In addition, please implement the search and sorting functionalities on this page. As a user types into the search box, the events list should update to only show events with names matching the search terms.  The "Times" dropdown should have a list of times including **at least** the times already on the Figma, but you may add more times if you'd like. The "Date" dropdown should contain the days of the week. When an option in a dropdown is clicked, only events that match the selected option should be shown. For example, if "Saturday" is selected, only events that are on Saturday should be displayed. If "Monday" and "4:30 pm" are selected, only events that are on Monday **and** at 4:30 pm should be displayed.
+
+## Submission
+
+**Congratulations!** To submit your project, please make sure your project is in a GitHub repo that is set to private. You will be submitting your code on [Gradescope](https://www.gradescope.com/). If you do not have a Gradescope account, please create one. If you are unable to create one, please email us
+immediately. The Gradescope course code is `4GEP2N`. You will see two different assignments: `Frontend Project` and `Backend Project`. _Please only submit to Frontend Technical Project._ You can ignore Backend Technical Project.
+
+The technical project will be due by Monday, 1/29 at 11:59 PM PST. We will be unable to respond to clarification emails sent in after then. If you have any questions about the project, please let us know before then by email. Also reach out if you have any issues with the Gradescope submission (note that there is no autograder for this project so we will be reviewing your code manually).
+
+**Please be ready to run your web app locally for the technical interview!** This means being able to view your web app in a browser and interact with it.
+
+Also, this page may potentially update if we get some frequently asked questions, so keep this repository bookmarked and check back on it every now and then! If there are any major changes, we'll make sure to email you about those.

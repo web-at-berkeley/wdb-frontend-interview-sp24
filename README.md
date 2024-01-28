@@ -8,6 +8,7 @@ If you have any questions, please reach out to us at our email: webatberkeley@gm
 There are two Figma pages in the link below ("Bootcamp" and "Industry" -- access them by clicking the Figma icon in the top left). Please make sure you click on the project you are completing to see all of what you will complete. 
 
 1. **IMPORTANT**: the Gradescope entry code is `4GEP2N`, please use that!
+2. The font used in the Figma (HP Simplified) may not be easily accessible on certain computers. As an equivalent you may use Oswald, which can be found on Google Fonts.
 
 ## Introduction
 

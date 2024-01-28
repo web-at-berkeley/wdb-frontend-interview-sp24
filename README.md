@@ -34,7 +34,7 @@ Complete the navbar component. Clicking the icon or text in the top left should 
 
 ### Task 2
 
-Complete the Landing page UI in the home page of your project. Make sure to follow the [Figma](https://www.figma.com/file/A5LGDC2IdQpcEtaXcALZd7/%5BSP-24%5D-Frontend-Technical-Project?type=design&node-id=0%3A1&mode=design&t=tswPi4JprGlyifpU-1) provided. The "Purchase" button should link to the Merch page.
+Complete the Landing page UI in the home page of your project. Make sure to follow the [Figma](https://www.figma.com/file/A5LGDC2IdQpcEtaXcALZd7/%5BSP-24%5D-Frontend-Technical-Project?type=design&node-id=0%3A1&mode=design&t=tswPi4JprGlyifpU-1) provided. The "See Her Perform" button should link to the Merch page.
 
 ### Task 3
 
